@@ -46,7 +46,9 @@ Open combos using the "Load Combos" button.
 Perform various actions like adding text, filtering, sorting, and more.
 Save your changes by clicking the "Save Combos" button.
 ## Changelog
-Version 1: Initial version with basic functionality.
-Version 2: Added 24 combo features.
-Version 3: Integrated capture remover and other advanced features.
-Version 4: Cleaned up GUI, replaced permanent text boxes with pop-up windows.
+    Version 1: Initial version with basic functionality.
+    Version 2: Added 24 combo features.
+    Version 3: Integrated capture remover and other advanced features.
+    Version 4: Cleaned up GUI, replaced permanent text boxes with pop-up windows.
+    Version 5: Fixed buttons going out of the screen
+    Version 6: Updated Capture Remover to remove after pipe or space and removed the separate buttons for each.
