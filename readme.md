@@ -30,13 +30,15 @@ Alt Combo Edit is a Python-based combo editor with a clean and modern GUI. It al
 - **Load and Save Combos from/to Files**
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
+1. Install git
+2. Clone the repository:
+Open CMD and run:
+    ```bash
    git clone https://github.com/altwixy/altcomboeditor.git
 ## Install dependencies:
 
 Open CMD
+
 Run: `pip install customtkinter`
 ## Run the app:
 
